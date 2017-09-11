@@ -54,7 +54,6 @@ camera_extrinsic_matrices Find_R_and_t(Mat A, Mat B){
 
 int main(){
 
-	//ALL THIS IS JUST SETTING UP THE RANDOM DATASET POINTS
 	/*
 	A = random dataset 1
 	B = randomly rotated and translated dataset 1
